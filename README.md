@@ -1,7 +1,4 @@
-# Concentration
-A challenging card game.
-
----
+For best results, access via Eclipse IDE for Java.
 
 ### Game Overview
 
